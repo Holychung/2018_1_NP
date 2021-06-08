@@ -1,0 +1,30 @@
+register: Success!
+register: Success!
+register: t1_user2_test is already used
+register: Success!
+login: Usage: login <id> <password>
+login: Success!
+login: No such user or password error
+login: No such user or password error
+login: Success!
+login: Success!
+logout: Not login yet
+logout: Bye!
+delete: Not login yet
+login: Success!
+invite: Success!
+invite: Success!
+t1_user1_test
+t1_user1_test
+accept_invite: Success!
+accept_invite: t1_user3_test did not invite you
+accept_invite: Success!
+t1_user2_test
+t1_user3_test
+list_friend: Not login yet
+post: Success!
+t1_user1_test: hello
+delete: Success!
+delete: Success!
+delete: Success!
+delete: Not login yet

@@ -1,0 +1,14 @@
+register: Usage: register <username> <password>
+login: Usage: login <id> <password>
+register: Success!
+login: Success!
+delete: Usage: delete <user>
+invite: Usage: invite <user> <id>
+list_invite: Usage: list-invite <user>
+accept_invite: Usage: accept-invite <user> <id>
+list_friend: Usage: list-friend <user>
+post: Usage: post <user> <message>
+receive_post: Usage: receive-post <user>
+logout: Usage: logout <user>
+Unknown command del
+delete: Success!

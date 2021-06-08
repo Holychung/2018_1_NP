@@ -1,0 +1,36 @@
+register: Success!
+register: Success!
+register: Success!
+login: No such user or password error
+login: Success!
+login: No such user or password error
+delete: Not login yet
+login: Success!
+login: Success!
+invite: Success!
+invite: You cannot invite yourself
+invite: Already invited
+invite: t3_userA_test has invited you
+invite: t3_userD_test does not exist
+accept_invite: t3_userB_test did not invite you
+accept_invite: Success!
+invite: t3_userB_test is already your friend
+invite: t3_userD_test does not exist
+invite: Success!
+register: t3_userA_test is already used
+accept_invite: Success!
+t3_userB_test
+t3_userA_test
+t3_userC_test
+t3_userB_test
+post: Success!
+post: Success!
+post: Success!
+t3_userB_test: Hi I am B
+t3_userA_test: Hi I am A
+t3_userC_test: Hi I am C
+t3_userB_test: Hi I am B
+logout: Not login yet
+delete: Success!
+delete: Success!
+delete: Success!

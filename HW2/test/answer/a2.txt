@@ -1,0 +1,21 @@
+register: Usage: register <username> <password>
+register: Usage: register <username> <password>
+register: Usage: register <username> <password>
+login: No such user or password error
+login: No such user or password error
+delete: Not login yet
+login: No such user or password error
+accept_invite: Not login yet
+invite: Not login yet
+invite: Not login yet
+invite: Not login yet
+register: Success!
+login: Success!
+invite: Not login yet
+No invitations
+accept_invite: t2_user1_test did not invite you
+list_friend: Not login yet
+delete: Not login yet
+delete: Not login yet
+delete: Not login yet
+delete: Success!

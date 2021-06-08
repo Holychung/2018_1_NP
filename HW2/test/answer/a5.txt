@@ -1,0 +1,32 @@
+Unknown command asdf
+register: Success!
+register: Success!
+login: No such user or password error
+register: Success!
+delete: Not login yet
+login: Success!
+login: Success!
+delete: Success!
+delete: Not login yet
+login: Success!
+logout: Bye!
+logout: Not login yet
+invite: Not login yet
+invite: t5_userA_test does not exist
+register: Success!
+invite: Success!
+login: Success!
+login: Success!
+accept_invite: Success!
+accept_invite: t5_userC_test did not invite you
+invite: You cannot invite yourself
+No invitations
+t5_userA_test
+invite: Success!
+t5_userA_test
+accept_invite: t5_userB_test did not invite you
+post: Success!
+No posts
+delete: Success!
+delete: Success!
+delete: Success!

@@ -1,0 +1,40 @@
+register: Success!
+register: t4_userA_test is already used
+login: No such user or password error
+register: Success!
+register: Success!
+login: Success!
+login: Success!
+invite: Not login yet
+invite: You cannot invite yourself
+invite: t4_userD_test does not exist
+invite: Success!
+invite: Already invited
+invite: Success!
+logout: Bye!
+list_invite: Not login yet
+login: Success!
+t4_userA_test
+t4_userC_test
+accept_invite: Success!
+accept_invite: t4_userB_test did not invite you
+invite: t4_userA_test is already your friend
+invite: t4_userC_test has invited you
+t4_userC_test
+t4_userA_test
+post: Success!
+login: Success!
+t4_userB_test: wwwww
+accept_invite: Success!
+post: Success!
+post: Success!
+post: Success!
+t4_userA_test: wow
+t4_userA_test: hahaha
+t4_userC_test: bello
+delete: Success!
+t4_userA_test: wow
+t4_userA_test: hahaha
+delete: Success!
+No friends
+delete: Success!
